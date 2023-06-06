@@ -13,4 +13,15 @@ On the frontend, we have a form that a user can submit. Then, it goes into a loa
 - Express and CORS for handling requests on the backend
 - OpenAI API for making requests to DALL-E image generation
 
+## Results
+
+<img width="962" alt="image" src="https://github.com/sriramanved/dream/assets/67165828/aac09d05-34b5-40b0-abc8-7e9197f5b1b8">
+
+
+<img width="1293" alt="image" src="https://github.com/sriramanved/dream/assets/67165828/d426288e-e82d-4a57-8854-c8ad101a563a">
+
+<img width="1304" alt="image" src="https://github.com/sriramanved/dream/assets/67165828/bcfa67a0-0dcf-4404-84b1-2aec667b2945">
+
+
+
 
