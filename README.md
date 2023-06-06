@@ -12,6 +12,7 @@ On the frontend, we have a form that a user can submit. Then, it goes into a loa
 - Node.js for building the backend server
 - Express and CORS for handling requests on the backend
 - OpenAI API for making requests to DALL-E image generation
+- Vercel for deployment
 
 ## Results
 
