@@ -25,6 +25,10 @@ Check it out here! https://dream-zeta.vercel.app/
 
 <img width="1304" alt="image" src="https://github.com/sriramanved/dream/assets/67165828/bcfa67a0-0dcf-4404-84b1-2aec667b2945">
 
+## Replication
+
+First, make sure the express server is running on port 8080. Run the command 'node server.js'. Then, run the application locally by pasting 'npm run dev' in your terminal or visitng the application in the browser.
+
 
 
 
