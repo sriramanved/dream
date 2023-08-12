@@ -1,6 +1,6 @@
 # Dream App: Text2Image Generation using OpenAI's DALL-E API
 
-I built a simple application that allows a user to enter a prompt and recieve back an illustration using DALLE Image Generation. 
+An app that generates images using DALLE Image Generation based on user input. 
 
 ## Implementation
 
